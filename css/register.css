@@ -1,0 +1,50 @@
+body{
+    cursor: pointer;
+}
+ul{
+    width:330px;
+    margin:30px auto 10px;
+}
+ul h2{
+    text-align:center;
+    font-size:25px;
+    margin-bottom:5px;
+}
+ul li {
+    padding:7px 0;
+    font-size:11px;
+}
+ul li input{
+    width:325px;
+    height:55px;
+    text-indent:2em;
+}
+.safety{
+    width:192px;
+}
+.submit{
+    width:126px;
+    height:57px;
+    margin-left:3px;
+    background:#57565F;
+    color:white;
+    border:1px solid #57565F;
+    text-align:center;
+    font-weight: 700;
+}
+#submit1{
+    background:#FF3C3C;
+    color:white;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    border:1px solid #FF3C3C;
+    text-indent: 0;
+}
+.over{
+    color:#999;
+    font-weight: 700;
+    font-size: 14px;
+    text-indent: 10px;
+}
+
